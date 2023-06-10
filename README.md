@@ -11,3 +11,4 @@ Step Selection Analysis using INLA
 
 ``SSF used canopy values.R`` estimates differences between used values for each species and generates plots
 
+``Step selection inla PCA.R`` Runs a PCA on the posterior estimates of the models to see how species separate out.
